@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="netgame_1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netgame_1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AmazonsAndArrows_1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mayflower3.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
